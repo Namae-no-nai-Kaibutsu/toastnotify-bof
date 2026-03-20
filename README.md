@@ -2,7 +2,7 @@
 
 A Beacon Object File (BOF) for sending Windows toast notifications. Pairs with the [blog post](https://brmk.me/2026/03/18/toast-my-way.html) for full context and use cases.
 
-## Subcommands
+## subcommands
 
 ### getaumid
 
